@@ -1,3 +1,0 @@
-## %fileName%
-
-%ai-citations-corecodesnippet%
